@@ -1,0 +1,137 @@
+{
+    "chart_title": "Video Game Sales",
+    "data_points": [
+        {
+            "title": "Minecraft",
+            "genre": "Sandbox",
+            "platform": "PC",
+            "sales": 50.0
+        },
+        {
+            "title": "Pokemon",
+            "genre": "Adventure",
+            "platform": "Nintendo",
+            "sales": 44.0
+        },
+        {
+            "title": "Valorant",
+            "genre": "FPS",
+            "platform": "PC",
+            "sales": 24.0
+        },
+        {
+            "title": "Fortnite",
+            "genre": "FPS",
+            "platform": "Playstation",
+            "sales": 34.0
+        },
+        {
+            "title": "Among Us",
+            "genre": "Action",
+            "platform": "Phone",
+            "sales": 15.0
+        },
+        {
+            "title": "Mario Kart",
+            "genre": "Racing",
+            "platform": "Nintendo",
+            "sales": 30.0
+        },
+        {
+            "title": "Red Dead Redemption 2",
+            "genre": "Action",
+            "platform": "Playstation",
+            "sales": 18.0
+        },
+        {
+            "title": "The Sims",
+            "genre": "Simulation",
+            "platform": "PC",
+            "sales": 12.0
+        },
+        {
+            "title": "Smash Bros",
+            "genre": "Fighting",
+            "platform": "Nintendo",
+            "sales": 28.0
+        },
+        {
+            "title": "Apex Legends",
+            "genre": "FPS",
+            "platform": "PC",
+            "sales": 22.0
+        },
+        {
+            "title": "GTA V",
+            "genre": "Action",
+            "platform": "Playstation",
+            "sales": 41.0
+        },
+        {
+            "title": "Call of Duty",
+            "genre": "FPS",
+            "platform": "PC",
+            "sales": 33.0
+        },
+        {
+            "title": "FIFA 23",
+            "genre": "Sports",
+            "platform": "Playstation",
+            "sales": 29.0
+        },
+        {
+            "title": "NBA 2K23",
+            "genre": "Sports",
+            "platform": "Playstation",
+            "sales": 27.0
+        },
+        {
+            "title": "Overwatch 2",
+            "genre": "FPS",
+            "platform": "PC",
+            "sales": 25.0
+        },
+        {
+            "title": "World of Warcraft",
+            "genre": "MMORPG",
+            "platform": "PC",
+            "sales": 19.0
+        },
+        {
+            "title": "League of Legends",
+            "genre": "MOBA",
+            "platform": "PC",
+            "sales": 17.0
+        },
+        {
+            "title": "The Witcher 3",
+            "genre": "Action",
+            "platform": "Playstation",
+            "sales": 16.0
+        },
+        {
+            "title": "The Last of Us",
+            "genre": "Action",
+            "platform": "Playstation",
+            "sales": 14.0
+        },
+        {
+            "title": "The Elder Scrolls V: Skyrim",
+            "genre": "Action",
+            "platform": "PC",
+            "sales": 13.0
+        },
+        {
+            "title": "The Legend of Zelda: Breath of the Wild",
+            "genre": "Action",
+            "platform": "Nintendo",
+            "sales": 11.0
+        },
+        {
+            "title": "The Binding of Isaac",
+            "genre": "Action",
+            "platform": "PC",
+            "sales": 10.0
+        }
+    ]
+}
